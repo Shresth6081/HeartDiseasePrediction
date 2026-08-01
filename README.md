@@ -1,16 +1,16 @@
 # Heart Disease Prediction REST API & Cloud Deployment
 
-**Author:** Akshat Garg
+**Author:** Shresth Goel
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE10552
 
-**Application Number:** IN26011052
+**Application Number:** IN26011491
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in
+**Email ID:** shresth.23bce10552@vitbhopal.ac.in
 
-**Render Deployment URL:** [https://mponline-assignment-10-zqlt.onrender.com](https://mponline-assignment-10-zqlt.onrender.com)
+**Render Deployment URL:** [https://heartdiseaseprediction-psuo.onrender.com](https://heartdiseaseprediction-psuo.onrender.com)
 
 ---
 
